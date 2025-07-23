@@ -92,7 +92,3 @@ If you select **Inception**, the app might recommend:
 ## 📄 License
 
 This project is open-source and free to use under the [MIT License](LICENSE).
-
----
-
-Let me know if you'd like to include additional sections like **Contributors**, **Troubleshooting**, or **To-Do List**.
