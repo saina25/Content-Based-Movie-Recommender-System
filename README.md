@@ -1,7 +1,3 @@
-Here's a **README.md** file for your Streamlit-based Movie Recommender System:
-
----
-
 # 🎬 Movie Recommender System
 
 This is a **content-based movie recommendation system** built using **Python**, **pandas**, **scikit-learn**, and **Streamlit**. It uses metadata such as genres, cast, crew, and keywords from the **TMDB 5000 Movie Dataset** to suggest movies similar to the one you select.
