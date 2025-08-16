@@ -45,22 +45,14 @@ You can download the dataset from Kaggle:
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/movie-recommender-streamlit.git
-cd movie-recommender-streamlit
+git clone https://github.com/saina25/Content-Based-Movie-Recommender-System.git
+cd Content-Based-Movie-Recommender-System
 ```
 
 ### Install the required libraries:
 
 ```bash
 pip install -r requirements.txt
-```
-
-### `requirements.txt`
-
-```txt
-streamlit
-pandas
-scikit-learn
 ```
 
 ## ▶️ Run the App
